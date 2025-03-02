@@ -18,5 +18,10 @@ A filter is recommended to minimize spurious emissions and ensure clean signals.
 
 Pipewire on Linux is highly recommended for audio control
 
+Recommended Pipewire configuration:
+
+![image](https://github.com/user-attachments/assets/9d698a78-4a2e-494e-9633-3647bd068e0b)
+
+
 
 
