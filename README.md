@@ -1,6 +1,8 @@
 # SSBHackRF
 Turn your HackRF into a SSB Transceiver
 
+Built with Grok.
+
 Enhanced Amateur Radio Capabilities with PipeWire and HackRF
 
 Designed to work with Linux.
