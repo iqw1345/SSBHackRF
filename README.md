@@ -3,7 +3,7 @@ Turn your HackRF into a SSB Transceiver
 
 Built with Grok.
 
-Enhanced Amateur Radio Capabilities with PipeWire, HackRF, Linux, and GNU Radio.
+Enhanced Amateur Radio Capabilities, thanks to PipeWire, Soapy, HackRF, and GNU Radio.
 
 Designed to work with Linux.
 
