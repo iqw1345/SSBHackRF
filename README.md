@@ -20,9 +20,15 @@ A filter is recommended to minimize spurious emissions and ensure clean signals.
 
 Pipewire on Linux is highly recommended for audio control
 
-Recommended Pipewire configuration:
+Recommended Pipewire configuration (qpwgraph):
 
 ![image](https://github.com/user-attachments/assets/9d698a78-4a2e-494e-9633-3647bd068e0b)
+
+To create the null sink with pipewire:
+
+```mkdir -p ~/.config/pipewire/pipewire.conf.d```
+
+drop in 10-null-sink.conf and reboot
 
 
 
